@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarthdhanshetti
-- 👀 I’m interested in artificial inteligence ,Data science,Machine Learning,Deep Learning
-- 🌱 I’m currently learning 2nd engineering in AI & DS
+- 👀 I’m interested in artificial inteligence ,Data science ,Machine Learning,Deep Learning
+- 🌱 I’m currently learning 3rd engineering in AI & DS
 - 📫 How to reach me gmail - samarthdhanshetti7728@gmail.com
 
 
